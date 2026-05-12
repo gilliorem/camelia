@@ -1,0 +1,33 @@
+{
+  "envelope": {
+    "from": "Lead Web <nepasrepondre@dlumelio.fr>",
+    "date": "jeu. 30 avr. 2026 à 14:11",
+    "subject": "Simulation lumelio.fr",
+    "to": "Lumélio <lumelio.pv@gmail.com>"
+  },
+  "forwarded": {
+    "by": "(forwarded via inbox)",
+    "intro": ""
+  },
+  "client": {
+    "logement": "logement-prive",
+    "proprietaire": "proprietaire",
+    "adresse": "Bauvin, France",
+    "surface": "20",
+    "exposition": "Sud",
+    "inclinaison": "30",
+    "electricite": "en €",
+    "value": "150",
+    "unit": "1",
+    "chauffage": "",
+    "equipements": "0",
+    "prenom": "Gauthier",
+    "nom": "Bandel",
+    "email": "remi.gilliot98@gmail.com <gauthier.bandel@gmail.com>",
+    "phone": "0626190235"
+  },
+  "source": {
+    "imap_uid": "3",
+    "message_id": "<CAF9H1qS3TPfZnc8GTVqmc5=dNwPKjOvBRx-6s+WfXLuUQgcS2w@mail.gmail.com>"
+  }
+}

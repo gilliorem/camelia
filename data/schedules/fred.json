@@ -1,0 +1,107 @@
+[
+  {
+    "date": "2026-05-14",
+    "start": "09:00",
+    "end": "11:00",
+    "slot_id": "morning",
+    "status": "busy"
+  },
+  {
+    "date": "2026-05-14",
+    "start": "14:00",
+    "end": "16:00",
+    "slot_id": "afternoon-1",
+    "status": "busy"
+  },
+  {
+    "date": "2026-05-14",
+    "start": "16:00",
+    "end": "18:00",
+    "slot_id": "afternoon-2",
+    "status": "free"
+  },
+  {
+    "date": "2026-05-15",
+    "start": "09:00",
+    "end": "11:00",
+    "slot_id": "morning",
+    "status": "busy"
+  },
+  {
+    "date": "2026-05-15",
+    "start": "14:00",
+    "end": "16:00",
+    "slot_id": "afternoon-1",
+    "status": "free"
+  },
+  {
+    "date": "2026-05-15",
+    "start": "16:00",
+    "end": "18:00",
+    "slot_id": "afternoon-2",
+    "status": "busy"
+  },
+  {
+    "date": "2026-05-18",
+    "start": "09:00",
+    "end": "11:00",
+    "slot_id": "morning",
+    "status": "busy"
+  },
+  {
+    "date": "2026-05-18",
+    "start": "14:00",
+    "end": "16:00",
+    "slot_id": "afternoon-1",
+    "status": "busy"
+  },
+  {
+    "date": "2026-05-18",
+    "start": "16:00",
+    "end": "18:00",
+    "slot_id": "afternoon-2",
+    "status": "free"
+  },
+  {
+    "date": "2026-05-19",
+    "start": "09:00",
+    "end": "11:00",
+    "slot_id": "morning",
+    "status": "busy"
+  },
+  {
+    "date": "2026-05-19",
+    "start": "14:00",
+    "end": "16:00",
+    "slot_id": "afternoon-1",
+    "status": "busy"
+  },
+  {
+    "date": "2026-05-19",
+    "start": "16:00",
+    "end": "18:00",
+    "slot_id": "afternoon-2",
+    "status": "free"
+  },
+  {
+    "date": "2026-05-20",
+    "start": "09:00",
+    "end": "11:00",
+    "slot_id": "morning",
+    "status": "busy"
+  },
+  {
+    "date": "2026-05-20",
+    "start": "14:00",
+    "end": "16:00",
+    "slot_id": "afternoon-1",
+    "status": "busy"
+  },
+  {
+    "date": "2026-05-20",
+    "start": "16:00",
+    "end": "18:00",
+    "slot_id": "afternoon-2",
+    "status": "free"
+  }
+]

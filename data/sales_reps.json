@@ -1,0 +1,6 @@
+[
+  { "id": "arthur", "first_name": "Arthur", "last_name": "Poinsard",  "email": "a.poinsard@lumelio.fr",  "home_city": "Dunkerque" },
+  { "id": "maxime", "first_name": "Maxime", "last_name": "Leveugle",  "email": "m.leveugle@lumelio.fr",  "home_city": "Arras" },
+  { "id": "fred",   "first_name": "Fred",   "last_name": "Labriere",  "email": "f.labriere@lumelio.fr",  "home_city": "Arleux" },
+  { "id": "angelo", "first_name": "Angelo", "last_name": "Salvatore", "email": "a.salvatore@lumelio.fr", "home_city": "Aire-sur-la-Lys" }
+]

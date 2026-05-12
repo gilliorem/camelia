@@ -1,0 +1,31 @@
+{
+  "envelope": {
+    "from": "Lead Web <nepasrepondre@dlumelio.fr>",
+    "to": "Lumélio <lumelio.pv@gmail.com>",
+    "subject": "Simulation lumelio.fr",
+    "date": "2026-04-30T13:41:00"
+  },
+  "forwarded": {
+    "by": "Camille",
+    "from": "Lumélio",
+    "to": "Rémi",
+    "intro": "Hello Rémi, voici un premier lead que nous n'avons pas réussi à avoir."
+  },
+  "client": {
+    "logement": "logement-prive",
+    "proprietaire": "proprietaire",
+    "adresse": "8 Rue Maréchal Foch, Grand-Fort-Philippe, France",
+    "surface": "2",
+    "exposition": "Sud",
+    "inclinaison": "30",
+    "electricite": "en kWh",
+    "value": "1100",
+    "unit": "1",
+    "chauffage": "",
+    "equipements": "0",
+    "prenom": "Clement",
+    "nom": "Fournier",
+    "email": "cleme62215@gmail.com",
+    "phone": "0633272409"
+  }
+}
